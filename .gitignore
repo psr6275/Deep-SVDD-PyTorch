@@ -5,6 +5,11 @@ __pycache__/
 *.p
 *.pkl
 
+# Dataset files
+data/
+log/
+*.swp
+
 # C extensions
 *.so
 
